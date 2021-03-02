@@ -27,7 +27,7 @@ JDRouterPush
 
 1. **Fork 本项目**
 2. **获取京东云无线宝wskey**
-- 目前只用Android抓包演示（抓包工具有很多，这里使用HttpCanary作为演示）
+
 
 - 打开HttpCanary点击右下角按钮开始抓包
 
